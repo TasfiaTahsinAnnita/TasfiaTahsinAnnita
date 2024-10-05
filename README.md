@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi there, I am Tafia Tahsin Annita
 
-<!--
-**TasfiaTahsinAnnita/TasfiaTahsinAnnita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+- 🎓Completeting my Undergraduation in in CSE from East West University
+- 💼 I’m currently working as Undergraduate Teaching Assistant in the CSE department of East West University
+- 👯I'm interested to work as a Faculty/ Software tester / SQA Engineer
+- 📫How to reache me:2021-3-60-031@std.ewubd.edu
+- 🌐 My Portfolio:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=TasfiaTahsinAnnita&label=Profile%20views&color=0e75b6&style=flat" alt="Azman Ahmed" /> </p>
+</div>
+
+## Skills
+
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)  ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)  ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)  ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+
+- **Frameworks**: 
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
+
+
+
+<h1 align="center">Github Stats</h1>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p>
+          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TasfiaTahsinAnnita&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Tasfia Tahsin Annita's Top Languages" />
+        </p>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=TasfiaTahsinAnnita&theme=midnight-purple" alt="TasfiaTahsinAnnita's GitHub stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <p align="center">
+          <a href="https://github.com/TasfiaTahsinAnnita/github-readme-streak-stats">
+            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="TasfiaTahsinAnnita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TasfiaTahsinAnnita&theme=midnight-purple&hide_border=true&stroke=0000&background=060A0CD0" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    
+  </table>
+</div>
+
+
+<h1 align="center">Programming Stats</h1>
+    <table align="center">
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_AthinA_" alt="Annita's Codeforces Stats">
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="https://leetcard.jacoblin.cool/3yn0Djwq8o" alt="Annita's LeetCode Stats">
+                </div>
+            </td>
+        </tr>
+    </table>
+
+
+## Projects
+## Certifications
+
+## Contact
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/tasfiatahsinannita)
+- [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:tasfiatahsinannita@gmail.com)
+---
+
+<div position="center">
+  <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=TasfiaTahsinAnnita" alt="Annita's Stat" /></a> </p>
+</div>
+
