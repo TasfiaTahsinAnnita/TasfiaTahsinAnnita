@@ -5,7 +5,7 @@
 - 🎓Completeting my Undergraduation in in CSE from East West University
 - 💼 I’m currently working as Undergraduate Teaching Assistant in the CSE department of East West University
 - 👯I'm interested to work as a Faculty/ Software tester / SQA Engineer
-- 📫How to reache me:2021-3-60-031@std.ewubd.edu
+- 📫How to reach me:tasfiatahsinannita@gmail.com
 - 🌐 My Portfolio:
 
 <div>
