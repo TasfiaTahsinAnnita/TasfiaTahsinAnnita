@@ -58,7 +58,7 @@
             </td>
             <td>
                 <div align="center">
-                    <img src="https://leetcode.com/TasfiaTahsinAnnita" alt="Annita's LeetCode Stats">
+                    <img src="https://leetcode.com/u/TasfiaTahsinAnnita/" alt="Annita's LeetCode Stats">
                 </div>
             </td>
         </tr>
