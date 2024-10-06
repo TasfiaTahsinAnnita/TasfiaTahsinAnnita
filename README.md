@@ -2,14 +2,14 @@
 
 # About me
 
-- 🎓Completeting my Undergraduation in in CSE from East West University
+- 🎓Completeting my Undergraduation in CSE from East West University
 - 💼 I’m currently working as Undergraduate Teaching Assistant in the CSE department of East West University
-- 👯I'm interested to work as a Faculty/ Software tester / SQA Engineer
+- 👯I'm interested to work as a Faculty/ Software tester / SQA Engineer / Data Analyst
 - 📫How to reach me: tasfiatahsinannita@gmail.com
 - 🌐 My Portfolio:
 
 <div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=TasfiaTahsinAnnita&label=Profile%20views&color=0e75b6&style=flat" alt="Azman Ahmed" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=TasfiaTahsinAnnita&label=Profile%20views&color=0e75b6&style=flat" alt="Annita" /> </p>
 </div>
 
 ## Skills
