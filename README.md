@@ -68,7 +68,7 @@
 ### [Crime_Management_System](https://github.com/Glkibria/Crime_Management_System)
 
 <p align="center">
-  <img src="Poster_CSE347_Crime Management_System.pdf" alt="Crime Mangement System Diagram" width="700" />
+  <img src="Crime_Management_System_Poster.jpg" alt="Crime Mangement System Diagram" width="700" />
 </p>
 
 <!-- ### [Another Project](https://github.com/your-username/another-project)
