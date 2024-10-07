@@ -58,7 +58,7 @@
             </td>
             <td>
                 <div align="center">
-                    <img src="https://leetcard.jacoblin.cool/TasfiaTahsinAnnitalapor?ext=heatmap" alt="Annita's LeetCode Stats">
+                    <img src="https://leetcard.jacoblin.cool/TasfiaTahsinAnnita?ext=heatmap" alt="Annita's LeetCode Stats">
                 </div>
             </td>
         </tr>
