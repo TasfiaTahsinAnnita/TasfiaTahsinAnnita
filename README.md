@@ -66,7 +66,7 @@
 
 <h1 align="center">Projects</h1>
 ### [Crime Management System](https://github.com/Glkibria/Crime_Management_System)
-
+<br>
 <p align="center">
   <img src="https://github.com/Glkibria/Crime_Management_System/blob/main/Crime_Management_System_Poster.jpg" alt="Crime Mangement System Diagram" width="700" />
 </p>
