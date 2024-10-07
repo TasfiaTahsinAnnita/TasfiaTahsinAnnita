@@ -73,11 +73,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/Glkibria/Crime_Management_System/blob/main/Crime_Management_System_Poster.jpg" alt="Crime Mangement System Diagram" width="700" />
-</p>
-
-
 <!-- ### [Another Project](https://github.com/your-username/another-project)
 ![Project Image](https://github.com/your-username/another-project/blob/main/screenshot.png)
 
