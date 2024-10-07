@@ -64,8 +64,17 @@
         </tr>
     </table>
 
+<h1 align="center">Projects</h1>
+### [Crime_Management_System](https://github.com/Glkibria/Crime_Management_System)
 
-## Projects
+<p align="center">
+  <img src="https://github.com/Glkibria/Crime_Management_System/blob/main/Poster_CSE347_Crime%20Management_System.pdf" alt="Crime Mangement System Diagram" width="700" />
+</p>
+
+<!-- ### [Another Project](https://github.com/your-username/another-project)
+![Project Image](https://github.com/your-username/another-project/blob/main/screenshot.png)
+
+Brief description of the project. What does it do? What technologies were used? -->
 ## Certifications
 
 ## Contact
