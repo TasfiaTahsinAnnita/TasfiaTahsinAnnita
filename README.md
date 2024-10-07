@@ -53,7 +53,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_AthinA_&theme=gruvbox" alt="Annita's Codeforces Stats">
+                    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_AthinA_&theme=cobalt" alt="Annita's Codeforces Stats">
                 </div>
             </td>
             <td>
