@@ -58,7 +58,7 @@
             </td>
             <td>
                 <div align="center">
-                    <img src="https://leetcard.jacoblin.cool/TasfiaTahsinAnnita" alt="Annita's LeetCode Stats">
+                    <img src="https://leetcard.jacoblin.cool/TasfiaTahsinAnnita?theme=light,unicorn" alt="Annita's LeetCode Stats">
                 </div>
             </td>
         </tr>
