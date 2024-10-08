@@ -79,6 +79,42 @@
 Brief description of the project. What does it do? What technologies were used? -->
 ## Certifications
 
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <a href="#">
+          <div>Wadhwani - JobReady Employability Skills </div>
+          <img src="image/wadwani.png" alt="wadhwani" width="300"/>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="#">
+          <div> National IT olypmiad East West University  </div>
+          <img src="image/itcertificate.png" alt="wadhwani" width="300"/>
+        </a>
+      </div>
+    </td>
+    
+  </tr>
+  
+  <tr>
+    <td>
+      <div align="center">
+        <a href="https://www.hackerrank.com/certificates/iframe/1439435bfc06">
+          <div>HackerRank Problem Solving (Basic) Skills Certification Test</div>
+          <img src="image/Hackerrankbasic.png" alt="Problem Solving Basic" width="300"/>
+        </a>
+      </div>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
+
 ## Contact
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/tasfiatahsinannita)
