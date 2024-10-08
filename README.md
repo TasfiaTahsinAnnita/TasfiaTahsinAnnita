@@ -75,7 +75,7 @@
 ### [Blood and Organ donation management system](https://github.com/TasfiaTahsinAnnita/Blood-and-Organ-Donation-Management-System.git)
 <br>
 <p align="center">
-  <img src="image/4.jpg" alt="Crime Mangement System Diagram" width="700" />
+  <img src="https://github.com/TasfiaTahsinAnnita/Blood-and-Organ-Donation-Management-System/blob/master/image/4.jpg" alt="Crime Mangement System Diagram" width="700" />
 </p>
 
 <!-- ### [Another Project](https://github.com/your-username/another-project)
