@@ -6,7 +6,7 @@
 - 💼 I’m currently working as Undergraduate Teaching Assistant in the CSE department of East West University
 - 👯I'm interested to work as a Faculty/ Software tester / SQA Engineer / Data Analyst
 - 📫How to reach me: tasfiatahsinannita@gmail.com
-- 🌐 My Portfolio: <a href="https://tasfiatahsinannita.github.io/Portfolio/"> <div>Portfolio</div>
+- 🌐 My Portfolio: <a href="https://tasfiatahsinannita.github.io/Portfolio/">Portfolio</a>
 
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=TasfiaTahsinAnnita&label=Profile%20views&color=0e75b6&style=flat" alt="Annita" /> </p>
