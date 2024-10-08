@@ -77,7 +77,7 @@
 ![Project Image](https://github.com/your-username/another-project/blob/main/screenshot.png)
 
 Brief description of the project. What does it do? What technologies were used? -->
-## Certifications
+<h1 align="center">Certifications</h1>
 
 <table>
   <tr>
