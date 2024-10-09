@@ -90,7 +90,6 @@
   <img src="https://github.com/TasfiaTahsinAnnita/Design-a-full-fledged-network-for-an-organization-with-multiple-subnet/blob/main/design.png" alt="Organization Network Design" width="700" />
 </p>
 
-Brief description of the project. What does it do? What technologies were used? -->
 <h1 align="center">Certifications</h1>
 
 <table>
