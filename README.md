@@ -72,7 +72,6 @@
       <div align="center">
         <a href="#">
         
-
 ### [Crime Management System](https://github.com/Glkibria/Crime_Management_System)
 <br>
 <p align="center">
@@ -80,27 +79,51 @@
 </p>
 
 </a>
-      </div>
-    </td>
+</div>
+</td>
+ </tr>
+  
+  <tr>
+    <td>
+      <div align="center">
+        <a href="#">
 
 ### [Blood and Organ donation management system](https://github.com/TasfiaTahsinAnnita/Blood-and-Organ-Donation-Management-System.git)
 <br>
 <p align="center">
   <img src="https://github.com/TasfiaTahsinAnnita/Blood-and-Organ-Donation-Management-System/blob/master/image/4.jpg" alt="Crime Mangement System Diagram" width="700" />
 </p>
-
+</a>
+</div>
+</td>
+<td>
+    <div align="center">
+        <a href="#">
 ### [Flood Detection Using Logistic Regression](https://github.com/TasfiaTahsinAnnita/Flood-Detection-Using-Logistic-Regression)
 <br>
 <p align="center">
   <img src="https://github.com/TasfiaTahsinAnnita/Flood-Detection-Using-Logistic-Regression/blob/main/Correlation.png" alt="Flood Detection" width="700" />
 </p>
+</a>
+</div>
+</td>
+</tr>
 
+  <tr>
+    <td>
+      <div align="center">
+        <a href="#">
+          
 ### [Design a full fledged network for an organization with multiple subnet](https://github.com/TasfiaTahsinAnnita/Design-a-full-fledged-network-for-an-organization-with-multiple-subnet)
 <br>
 <p align="center">
   <img src="https://github.com/TasfiaTahsinAnnita/Design-a-full-fledged-network-for-an-organization-with-multiple-subnet/blob/main/design.png" alt="Organization Network Design" width="700" />
 </p>
-
+</a>
+</div>
+</td>
+</tr>
+</table>
 <h1 align="center">Certifications</h1>
 
 <table>
