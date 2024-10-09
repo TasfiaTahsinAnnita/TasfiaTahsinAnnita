@@ -165,7 +165,7 @@
 </table>
 
 
-## Contact
+<h1 align="center">Contact</h1>
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/tasfiatahsinannita)
 - [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:tasfiatahsinannita@gmail.com)
