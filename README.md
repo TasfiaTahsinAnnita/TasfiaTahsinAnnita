@@ -81,9 +81,6 @@
 </a>
 </div>
 </td>
- </tr>
-  
-  <tr>
     <td>
       <div align="center">
         <a href="#">
@@ -94,6 +91,22 @@
   <img src="https://github.com/TasfiaTahsinAnnita/Flood-Detection-Using-Logistic-Regression/blob/main/Correlation.png" alt="Flood Detection" width="700" />
 </p>
 
+</a>
+</div>
+</td>
+ </tr>
+  
+  <tr>
+
+   <td>
+      <div align="center">
+        <a href="#">
+          
+### [Design a full fledged network for an organization with multiple subnet](https://github.com/TasfiaTahsinAnnita/Design-a-full-fledged-network-for-an-organization-with-multiple-subnet)
+<br>
+<p align="center">
+  <img src="https://github.com/TasfiaTahsinAnnita/Design-a-full-fledged-network-for-an-organization-with-multiple-subnet/blob/main/design.png" alt="Organization Network Design" width="700" />
+</p>
 </a>
 </div>
 </td>
@@ -113,18 +126,7 @@
 </tr>
 
   <tr>
-    <td>
-      <div align="center">
-        <a href="#">
-          
-### [Design a full fledged network for an organization with multiple subnet](https://github.com/TasfiaTahsinAnnita/Design-a-full-fledged-network-for-an-organization-with-multiple-subnet)
-<br>
-<p align="center">
-  <img src="https://github.com/TasfiaTahsinAnnita/Design-a-full-fledged-network-for-an-organization-with-multiple-subnet/blob/main/design.png" alt="Organization Network Design" width="700" />
-</p>
-</a>
-</div>
-</td>
+
 </tr>
 </table>
 <h1 align="center">Certifications</h1>
