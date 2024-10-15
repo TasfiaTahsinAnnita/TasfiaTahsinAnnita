@@ -2,10 +2,10 @@
 
 # About me
 
-- 🎓Completeting my Undergraduation in CSE from East West University
-- 💼 I’m currently working as Undergraduate Teaching Assistant in the CSE department of East West University
-- 👯I'm interested to work as a Faculty/ Software tester / SQA Engineer / Data Analyst
-- 📫How to reach me: tasfiatahsinannita@gmail.com
+- 🎓 Currently completeting my Undergraduation in CSE from East West University
+- 💼 I’m currently working as an Undergraduate Teaching Assistant in the CSE department of East West University
+- 👩‍💻 I'm interested to work as a Faculty/ Software tester / SQA Engineer / Data Analyst
+- 📫 How to reach me: tasfiatahsinannita@gmail.com
 - 🌐 My Portfolio: <a href="https://tasfiatahsinannita.github.io/Portfolio/">Portfolio</a>
 
 <div>
